@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="field input">
-                    <label for="email">Age</label>
+                    <label for="email">Phone Number</label>
                     <input type="number" name="age" id="age" required>
                 </div>
 
